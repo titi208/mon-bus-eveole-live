@@ -1,0 +1,42 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+49,1,A,Aniche Azincourt - Douai De Lattre de Tassigny,,3,,EA0F0F,FFFFFF,1,0,0
+51,1,B,CHD - Douai - Auby Bon Air - Gare Leforest,,3,,3FB7FF,FFFFFF,2,0,0
+52,1,3,Pecquencourt Sainte Marie - Douai Place De Gaulle,,3,,603F00,FFFFFF,3,0,0
+340,1,4,CHD - Douai Gabriel Fauré,,3,,F6AA41,FFFFFF,4,0,0
+55,1,5,Flers Centre Commercial - Dechy A. Einstein,,3,,4DB000,FFFFFF,5,0,0
+56,1,6,Roost 4 Pavés - Esquerchin Motte du Moulin,,3,,FFA700,FFFFFF,6,0,0
+57,1,7,Raimbeaucourt Hélène Borel - Douai Place De Gaulle,,3,,009889,FFFFFF,7,0,0
+60,1,12,Somain Pasteur - Dechy Centre Hospitalier,,3,,0050A0,FFFFFF,12,0,0
+61,1,13,Dechy Rés.Desbordes Valmore - Douai Place De Gaulle,,3,,9CD000,FFFFFF,13,0,0
+66,1,14,Lambres St Amé - Douai Lycée Elisa Lemonnier,,3,,FF3F93,FFFFFF,14,0,0
+65,1,15,Douai De Lattre de Tassigny - Douai Arsenal,,3,,7B9800,FFFFFF,15,0,0
+68,1,16,Flines Les Raches Le Cattelet - Douai Place de Gaulle,,3,,980098,FFFFFF,16,0,0
+78,1,17,Anhiers Rte de Flines-Cuincy Z.I-Lambres lez Douai J. Auriol,,3,,006898,FFFFFF,17,0,0
+114,1,18,Hornaing Cité Heurteau - Arleux Collège Val de la Sensée,,3,,24992D,FFFFFF,18,0,0
+115,1,19,Marchiennes La Dondaine - Auberchicourt Chaufour,,3,,AC5497,FFFFFF,19,0,0
+116,1,20,Somain Gare - Dechy C. Hospitalier - Douai Lycée E. Lemonnier,,3,,E2642D,FFFFFF,20,0,0
+113,1,21,Lécluse Bourrelier - Douai Lycée Elisa Lemonnier,,3,,003973,FFFFFF,21,0,0
+80,1,BIN,Navette BINBIN - Centre Ville Douai,,3,,9FBDFF,FFFFFF,99,0,0
+456,1,100,Méloni - Place du 8 mai,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,100,2,2
+457,1,101,Auby Jaurès - Les Asturies,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,101,2,2
+458,1,102,Sin le Noble Lamendin - Waziers Eglise ,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,102,2,2
+459,1,103,Douai Transformateur - Douai Templerie,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,103,2,2
+460,1,104,Sin le Noble Rue Neuve - Sin le Noble Monument,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,104,2,2
+461,1,105,Dechy Parc des Renouelles - Sin le Noble Pescron,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,105,2,2
+462,1,106,Aniche Eglise - Aniche Saint Gobain,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,106,2,2
+463,1,107,Roost 4 pavés - Raimbeaucourt Lenne,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,107,2,2
+464,1,108,Gare Montigny - Place Ecaillon,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,108,2,2
+465,1,109,Esquerchin Clinique - Cuincy Closerie,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,109,2,2
+466,1,110,Centre Commercial Flers - Le Villers,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,110,2,2
+467,1,111,Grand carré - Place Courchelettes,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,111,2,2
+468,1,112,Anchin - Eglise Aniche,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,112,2,2
+469,1,113,Cimetière Lambres - Centre Commercial Douai,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,113,2,2
+470,1,114,Sin le Noble Lambres - Sin le Noble Gare,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,114,2,2
+471,1,115,Marcq Maréchal Foch - Eglise Monchecourt,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,115,2,2
+472,1,116,Auberge des Pêcheurs - Arleux Centre,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,116,2,2
+473,1,117,Fenain Place - Cité du Rond Point,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,117,2,2
+475,1,118,Anhiers Route de Flines - Lallaing Pont Vincourt,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,118,2,2
+476,1,119,Les Ecoles - Longue Borne Bugnicourt,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,119,2,2
+477,1,120,Collège yourcenar - Cité Heurteau,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,120,2,2
+478,1,121,Place de Gaulle Marchiennes - Cité Heurteau,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,121,2,2
+499,1,123,Lallaing Mairie - Lallaing Pont Vincourt,Réservation à effectuer au plus tard la veille d’un jour ouvré,3,http://tad.eveole.fr/,B82357,FFFFFF,123,2,2
